@@ -22,7 +22,12 @@ Este é um projeto simples de sistema bancário, desenvolvido em Java como parte
 ## Como rodar o projeto
 
 1. Abra no IntelliJ ou outro IDE Java
-2. Compile e execute a classe `Main.java`
+2. Instale e configure o JDK no projeto
+3. Verificar a estrutura do projeto
+4. Compilar projeto
+5. Executar a classe principal
+6. Verificar a saída no console
+7. Interegir com o programa 
 
 ## Objetivo
 
